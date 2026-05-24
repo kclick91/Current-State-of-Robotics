@@ -41,6 +41,8 @@
 
 This document provides a comprehensive overview of the modern robotics landscape as of 2026, combining insights from contemporary robotics research, embodied AI, mechatronics, machine learning, and physical intelligence.
 
+This README.md was developed with research synthesis and organizational assistance from ChatGPT by OpenAI, used as a tool to help structure, summarize, and connect concepts across robotics, embodied intelligence, physical AI, and mechatronics literature.
+
 Robotics is currently undergoing a transition comparable to the deep learning revolution in artificial intelligence. Historically, robotics focused heavily on:
 
 - deterministic control systems,
