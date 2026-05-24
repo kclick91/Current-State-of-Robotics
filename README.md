@@ -1,5 +1,42 @@
 # The Current State of Robotics, Physical Intelligence, and Mechatronics (2026)
 
+# Table of Contents
+
+- [Overview](#overview)
+- [Core Concepts](#core-concepts)
+  - [Embodied Intelligence](#embodied-intelligence)
+  - [Physical AI](#physical-ai)
+- [The Modern Robotics Stack](#the-modern-robotics-stack)
+- [The Three Dominant Paradigms in Robotics](#the-three-dominant-paradigms-in-robotics)
+  - [1. Foundation-Model Robotics](#1-foundation-model-robotics)
+  - [2. Humanoid Robotics](#2-humanoid-robotics)
+  - [3. World Models and Physical Reasoning](#3-world-models-and-physical-reasoning)
+- [The Biggest Bottleneck: Data](#the-biggest-bottleneck-data)
+- [Simulation and Sim-to-Real Transfer](#simulation-and-sim-to-real-transfer)
+- [The Ten Hardest Problems in Robotics](#the-ten-hardest-problems-in-robotics)
+  - [1. Dexterous Manipulation](#1-dexterous-manipulation)
+  - [2. Sim-to-Real Transfer](#2-sim-to-real-transfer)
+  - [3. General-Purpose Embodied Intelligence](#3-general-purpose-embodied-intelligence)
+  - [4. Humanoid Locomotion and Balance](#4-humanoid-locomotion-and-balance)
+  - [5. Autonomous Robot Learning](#5-autonomous-robot-learning)
+  - [6. Robust Robot Perception](#6-robust-robot-perception)
+  - [7. Tactile Intelligence](#7-tactile-intelligence)
+  - [8. Safe Human-Robot Collaboration](#8-safe-human-robot-collaboration)
+  - [9. Soft Robotics and Bio-Inspired Mechatronics](#9-soft-robotics-and-bio-inspired-mechatronics)
+  - [10. Energy-Efficient Autonomous Robotics](#10-energy-efficient-autonomous-robotics)
+- [Cross-Cutting Meta-Problems](#cross-cutting-meta-problems)
+- [Current Robotics Industry Structure](#current-robotics-industry-structure)
+- [Why Robotics in 2026 Feels Different](#why-robotics-in-2026-feels-different)
+- [The Current Frontier](#the-current-frontier)
+- [Strategic Understanding of Robotics](#strategic-understanding-of-robotics)
+- [Hyper-Parameters, Scaling Parameters, and Optimization Variables in Modern Robotics](#hyper-parameters-scaling-parameters-and-optimization-variables-in-modern-robotics)
+  - [Major Robotics Hyper-Parameters and Their Effects](#major-robotics-hyper-parameters-and-their-effects)
+  - [Additional Parameters That Could Transform Robotics](#additional-parameters-that-could-transform-robotics)
+  - [Strategic Understanding of Robotics Scaling](#strategic-understanding-of-robotics-scaling)
+  - [Potential Future Breakthroughs](#potential-future-breakthroughs)
+- [Final Perspective](#final-perspective)
+
+
 ## Overview
 
 This document provides a comprehensive overview of the modern robotics landscape as of 2026, combining insights from contemporary robotics research, embodied AI, mechatronics, machine learning, and physical intelligence.
